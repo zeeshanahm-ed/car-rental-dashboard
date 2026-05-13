@@ -1,0 +1,25 @@
+:root {
+    --font-primary: "Inter", sans-serif;
+    --font-heading: 'SF Pro Display Medium', sans-serif;
+
+    --color-background: #FAFAFA;
+    --color-background-hover: #1A73E814;
+
+    --color-primary: #1A73E8;
+    --color-primary-hover: #1557B0;
+    --color-primary-light: #E8F1FF;
+
+    --color-text-primary: #1F1F1F;
+    --color-text-secondary: #5A5A5A;
+
+    --color-white: #fff;
+    --color-black: #000;
+
+    --color-gray: #A8A8A8;
+    --color-border-gray: #CDCDCD;
+
+    --color-warning: #F5880B;
+    --color-danger: #DC2626;
+    --color-success: #16A34A;
+    --color-info: #0284C7;
+}
